@@ -4,8 +4,8 @@
 // The list of which env maps to which file can be found in `.angular-cli.json`.
 
 export const environment = {
-  production: false,
-  serverUri: 'http://localhost:8080',
-  graphqlUri: 'http://localhost:8080/graphql'
+  production: true,
+  serverUri: 'http://localhost:8085',
+  graphqlUri: '3.86.236.147/graphql'
 
 };
